@@ -1,4 +1,4 @@
-## Hi, I'm omer💫
+## Hi, I'm Omer Ayoub
 
 # 💫 About Me:
 💻 I’m currently working on AI-powered projects, machine learning applications, and scalable agentic AI systems.<br>🤝 I’m looking to collaborate on AI, Data Science, Deep Learning, and innovative tech solutions with real-world impact.<br>🛠️ I’m looking for help with advanced AI agents, cloud deployment, and building production-level intelligent systems.<br>🌱 I’m currently learning Deep Learning, NLP, Computer Vision, LangChain, and AI workflow automation.<br>💬 Ask me about Python, Machine Learning, AI projects, Data Science, Hackathons, and software development.<br>⚡ Fun fact: I was a Runner-Up at the DocuSign Hackathon for building an AI-powered workflow automation solution.
