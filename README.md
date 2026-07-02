@@ -2,7 +2,8 @@
 
 ### An AI Engineer Building Intelligent Systems, Agentic AI Applications & Data-Driven Solutions
 
-I am a final-year B.Tech student in Artificial Intelligence & Data Science with hands-on industry experience at Accenture and a strong foundation in Machine Learning, Deep Learning, NLP, and AI Agents. I enjoy building scalable AI systems that solve real-world problems in cybersecurity, agriculture, automation, and analytics.
+I am a recent B.Tech graduate in Artificial Intelligence & Data Science with hands-on industry experience at Accenture and a strong foundation in Machine Learning, Deep Learning, NLP, and AI Agents. I am passionate about building scalable AI systems that solve real-world problems across cybersecurity, agriculture, automation, and data analytics.
+
 
 🚀 Actively seeking AI Engineer, Machine Learning Engineer, Data Scientist, or Software Engineer roles starting in 2026.
 
